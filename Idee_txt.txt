@@ -1,0 +1,5 @@
+1 ) Frequence mots (lemma)   ---> si peu fréquent ---> complexe +
+2 ) Longueur phrases   ---> + long ----> + complexe
+3 ) Structure (sujet verbe complément)
+4 ) Word to vec (sujets différents sur un extrait) ----> + sujets ----> + complexe
+5 )  Temps employé ---> temps difficiles ou non
