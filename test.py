@@ -29,3 +29,6 @@ print("Audio texte")
 print(get_medium("101",only_commented))
 print("All")
 print(get_medium("111",only_commented))
+
+
+
