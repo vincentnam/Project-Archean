@@ -1,4 +1,4 @@
 # Project-Archean
 M2 - SID : Projet analyse et exploitation de données 
-Feuilles de suivi regroupées par personnes : https://drive.google.com/drive/folders/1RbzqweGmWs6NXYF5mNqkhYCM3ZJ5XrdW?usp=sharing
-
+### Objectif de fin de semaine : prototype avec des features correct 
+### Objectif pour la semaine prochaine : avoir amélioré les features, mis au propre et mis tout le code en commun
